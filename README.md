@@ -22,4 +22,4 @@
 
 ---
 
-![Danilas174's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilas174&show_icons=true&include_all_commits=true&theme=dark)
+![Danilas174's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilas174&show_icons=true&count_private=true&theme=dark)
