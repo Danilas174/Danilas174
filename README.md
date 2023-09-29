@@ -22,4 +22,4 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilas174&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilas174&show_icons=true&theme=dracula&count_private=true)
