@@ -4,7 +4,7 @@
 
 <img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/ru/c/c8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg" />
 
-<img align="left" alt="YouTrack" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" />
+<img align="left" alt="Sequelize" width="26px" src="https://avatars.githubusercontent.com/u/3591786?s=48&v=4" />
 <img align="left" alt="React" height="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="NestJS" width="26px" src="https://avatars.githubusercontent.com/u/28507035?s=48&v=4" />
